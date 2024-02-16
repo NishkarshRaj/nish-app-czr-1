@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "nish-app-czr-1"
+  description: "lorem ipsum"
+  annotations:
+    github.com/project-slug: NishkarshRaj/nish-app-czr-1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "group:default/data"
